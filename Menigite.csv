@@ -1,0 +1,41 @@
+MENINGITE - Casos confirmados Notificados no Sistema de Informação de Agravos de Notificação - Brasil
+Casos confirmados por Ano 1º Sintoma(s) e Região de notificação
+Período:2023
+"Ano 1º Sintoma(s)";"1 Região Norte";"2 Região Nordeste";"3 Região Sudeste";"4 Região Sul";"5 Região Centro-Oeste";"Total"
+"2000";-;1;-;-;-;1
+"2012";-;-;1;-;-;1
+"2019";-;-;1;-;-;1
+"2020";-;-;1;-;-;1
+"2021";-;-;-;2;1;3
+"2022";16;67;136;64;17;300
+"2023";160;688;2108;808;174;3938
+"Total";176;756;2247;874;192;4245
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+  Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
+  Para tabular dados epidemiológicos de um determinado ano selecione na linha a variável de interesse, na Coluna Ano dos 1ºs sintomas;
+   em Períodos Disponíveis assinale o ano inicial da série e todos os posteriores até o ano atual (p/ incluir casos notificados com atraso)
+   e em Seleções
+  Disponíveis assinale os anos dos 1ºs sintomas (ex: nº de casos com início de sintomas 2007: selecione na linha UF de residência,
+   na Coluna Ano de 1ºs sintomas, em Períodos disponíveis 2007 até o ano atual e em Seleções assinale Ano de 1ºs sintomas 2007).
+  Para cálculo da incidência utilize locais de residência.
+  Dados de 2007 e 2008 atualizados em 02/07/2012.
+  Dados de 2009 atualizados em 06/09/2020.
+  Dados de 2010 atualizados em 04/11/2013.
+  Dados de 2011 atualizados em 29/08/2014.
+  Dados de 2012 atualizados em 01/06/2015.
+  Dados de 2013 atualizados em 18/12/2017.
+  Dados de 2014 atualizados em 17/12/2018.
+  Dados de 2015 atualizados em 26/11/2018.
+  Dados de 2016 atualizado em 16/09/2019.
+  Dados de 2017 atualizado em 24/04/2020.
+  Dados de 2018 e 2019 atualizados em 22/08/2022.
+  Dados de 2020 atualizado em 06/03/2023, dados sujeitos à revisão.
+  Dados de 2021 atualizados em 04/04/2023, dados sujeitos à revisão.
+  Dados de 2022 atualizados em 30/05/2023, dados sujeitos à revisão.
+  Dados de 2023 atualizados em 26/05/2023, dados sujeitos à revisão.
+  Dados a partir de 2020 do Espírito Santo não estão disponíveis neste sistema, pois são oriundos do Sistema de Informação e-SUS VS,
+    em uso pelo estado desde janeiro de 2020.
+  *Dados disponibilizados no TABNET em junho de 2023.
+ 
