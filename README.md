@@ -1,4 +1,5 @@
 Exemplos de Códigos em Python 🐍
+
 Bem-vindo ao repositório Exemplos de Códigos em Python! 🎉 
 Aqui você encontrará uma variedade de scripts e projetos desenvolvidos em Python, abordando desde análise de dados até visualização gráfica. 
 Este espaço é dedicado a compartilhar ideias, inspirar novos aprendizados e explorar o poder das bibliotecas mais populares de Python.
